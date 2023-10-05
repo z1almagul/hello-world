@@ -6,7 +6,7 @@
 #canvas1{
   border: none;
   position: absolute;
-  background: deepskyblue;
+  background: #00bfff;
   max-width: 100%
   max-height: 100%;
 }
