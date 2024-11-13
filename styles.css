@@ -62,7 +62,7 @@ body{
 }
 
 img:hover{
-    width: auto;
+    width: 30vw;
     height: auto;
     border-radius: 0;
 }
