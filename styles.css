@@ -125,6 +125,37 @@ p{
     left: -15px;
 }
 
+@media screen and (max-width: 600px){
+    .timeline{
+        margin: 50px auto;
+    }
+    .timeline::after{
+        left: 31px;
+    }
+    .container{
+        width: 100%;
+        padding-left: 80px;
+        padding-right: 25px;
+    }
+    .text-box{
+        font-size: 13px;
+    }
+    .text-box small{
+        margin-bottom: 10px;
+    }
+    .right-container{
+        left: 0;
+    }
+    .right-container img, .right-container img{
+        left: 10px;
+    }
+    span{
+        border-right: 15px solid white;
+        border-left: 0;
+        left: -15px;
+    }
+}
+
 .container:nth-child(1){
     animation-delay: 0s;
 }
@@ -146,53 +177,53 @@ p{
 }
 
 .container:nth-child(6){
-    animation-delay: 10s;
+    animation-delay: 5s;
 }
 
 .container:nth-child(7){
-    animation-delay: 0s;
+    animation-delay: 6s;
 }
 
 .container:nth-child(8){
-    animation-delay: 0s;
+    animation-delay: 7s;
 }
 
 .container:nth-child(9){
-    animation-delay: 0s;
+    animation-delay: 8s;
 }
 
 .container:nth-child(10){
-    animation-delay: 0s;
+    animation-delay: 9s;
 }
 
 .container:nth-child(11){
-    animation-delay: 0s;
+    animation-delay: 10s;
 }
 
 .container:nth-child(12){
-    animation-delay: 0s;
+    animation-delay: 11s;
 }
 
 .container:nth-child(13){
-    animation-delay: 0s;
+    animation-delay: 12s;
 }
 
 .container:nth-child(14){
-    animation-delay: 0s;
+    animation-delay: 13s;
 }
 
 .container:nth-child(15){
-    animation-delay: 0s;
+    animation-delay: 14s;
 }
 
 .container:nth-child(16){
-    animation-delay: 0s;
+    animation-delay: 15s;
 }
 
 .container:nth-child(17){
-    animation-delay: 0s;
+    animation-delay: 16s;
 }
 
 .container:nth-child(18){
-    animation-delay: 0s;
+    animation-delay: 17s;
 }
