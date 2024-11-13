@@ -146,10 +146,10 @@ p{
     .right-container{
         left: 0;
     }
-    img{
+    img, .right-container img{
         left: 10px;
     }
-    span{
+    .right-container-arrow, .left-container-arrow{
         border-right: 15px solid white;
         border-left: 0;
         left: -15px;
